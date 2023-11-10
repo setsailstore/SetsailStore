@@ -12,7 +12,7 @@ function show(){
     navigasi.style.top = '0';
     navigasi.style.transition =  "top 1s ease";
 
-}
+}S
 
 function close(){
     navigasi.style.top = '-100vh';

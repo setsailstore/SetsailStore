@@ -48,7 +48,7 @@
 }
 
 
- @media (min-width:510px) and (max-width:890px){
+ @media (min-width:790px) and (max-width:890px){
     .header{
         display: flex;
         flex-direction: column;
@@ -63,7 +63,7 @@
         display: none;
     }
     .content img{
-        width: 300px;
+      width: 300%;
     }
     .cntext h1{
         margin-left: 50px;
